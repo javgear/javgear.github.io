@@ -1,0 +1,28 @@
+html, body {
+  font-family: Lato, sans-serif;
+  margin: 0 auto;
+  scroll-behavior: smooth;
+  background-color: var(--bg-color);
+  max-width: 1330px;
+}
+
+main {
+  text-align: center;
+  padding-top: 10%;
+}
+
+h1 {
+  font-size: 75px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+}
+
+a {
+  color: #508dff;
+}
